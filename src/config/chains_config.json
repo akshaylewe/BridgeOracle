@@ -1,0 +1,21 @@
+[{
+        "chainId": 51,
+        "name": "XDC",
+        "debridgeAddr": "0xE4200cbf10ea0D3F8FE35B59cF9fCF21e911a743",
+        "firstStartBlock": 31321317,
+        "provider": "https://rpc.apothem.network",
+        "interval": 10000,
+        "blockConfirmation": 12,
+        "maxBlockRange": 5000
+    },
+    {
+        "chainId": 3,
+        "name": "Ropsten",
+        "debridgeAddr": "0xeC4979EE237ccAcd9121da7a5BB92Ba84d0a3D34",
+        "firstStartBlock": 12112668,
+        "provider": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+        "interval": 10000,
+        "blockConfirmation": 12,
+        "maxBlockRange": 5000
+    }
+]
